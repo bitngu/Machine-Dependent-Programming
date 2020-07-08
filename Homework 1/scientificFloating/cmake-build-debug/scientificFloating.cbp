@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="scientificFloating"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/bitnguyen/Desktop/UCDavis/Spring 2020/ECS 50/Homework/Homework 1/scientificFloating/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bitnguyen/Desktop/UCDavis/Spring\ 2020/ECS\ 50/Homework/Homework\ 1/scientificFloating/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bitnguyen/Desktop/UCDavis/Spring\ 2020/ECS\ 50/Homework/Homework\ 1/scientificFloating/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bitnguyen/Desktop/UCDavis/Spring\ 2020/ECS\ 50/Homework/Homework\ 1/scientificFloating/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bitnguyen/Desktop/UCDavis/Spring\ 2020/ECS\ 50/Homework/Homework\ 1/scientificFloating/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/bitnguyen/Desktop/UCDavis/Spring 2020/ECS 50/Homework/Homework 1/scientificFloating/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bitnguyen/Desktop/UCDavis/Spring\ 2020/ECS\ 50/Homework/Homework\ 1/scientificFloating/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bitnguyen/Desktop/UCDavis/Spring\ 2020/ECS\ 50/Homework/Homework\ 1/scientificFloating/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bitnguyen/Desktop/UCDavis/Spring\ 2020/ECS\ 50/Homework/Homework\ 1/scientificFloating/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bitnguyen/Desktop/UCDavis/Spring\ 2020/ECS\ 50/Homework/Homework\ 1/scientificFloating/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/bitnguyen/Desktop/UCDavis/Spring 2020/ECS 50/Homework/Homework 1/scientificFloating/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bitnguyen/Desktop/UCDavis/Spring\ 2020/ECS\ 50/Homework/Homework\ 1/scientificFloating/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bitnguyen/Desktop/UCDavis/Spring\ 2020/ECS\ 50/Homework/Homework\ 1/scientificFloating/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bitnguyen/Desktop/UCDavis/Spring\ 2020/ECS\ 50/Homework/Homework\ 1/scientificFloating/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bitnguyen/Desktop/UCDavis/Spring\ 2020/ECS\ 50/Homework/Homework\ 1/scientificFloating/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="scientificFloating">
+				<Option output="/Users/bitnguyen/Desktop/UCDavis/Spring 2020/ECS 50/Homework/Homework 1/scientificFloating/cmake-build-debug/scientificFloating" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bitnguyen/Desktop/UCDavis/Spring 2020/ECS 50/Homework/Homework 1/scientificFloating/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bitnguyen/Desktop/UCDavis/Spring\ 2020/ECS\ 50/Homework/Homework\ 1/scientificFloating/cmake-build-debug/Makefile&quot;  VERBOSE=1 scientificFloating"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bitnguyen/Desktop/UCDavis/Spring\ 2020/ECS\ 50/Homework/Homework\ 1/scientificFloating/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bitnguyen/Desktop/UCDavis/Spring\ 2020/ECS\ 50/Homework/Homework\ 1/scientificFloating/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bitnguyen/Desktop/UCDavis/Spring\ 2020/ECS\ 50/Homework/Homework\ 1/scientificFloating/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="scientificFloating/fast">
+				<Option output="/Users/bitnguyen/Desktop/UCDavis/Spring 2020/ECS 50/Homework/Homework 1/scientificFloating/cmake-build-debug/scientificFloating" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bitnguyen/Desktop/UCDavis/Spring 2020/ECS 50/Homework/Homework 1/scientificFloating/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bitnguyen/Desktop/UCDavis/Spring\ 2020/ECS\ 50/Homework/Homework\ 1/scientificFloating/cmake-build-debug/Makefile&quot;  VERBOSE=1 scientificFloating/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bitnguyen/Desktop/UCDavis/Spring\ 2020/ECS\ 50/Homework/Homework\ 1/scientificFloating/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bitnguyen/Desktop/UCDavis/Spring\ 2020/ECS\ 50/Homework/Homework\ 1/scientificFloating/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bitnguyen/Desktop/UCDavis/Spring\ 2020/ECS\ 50/Homework/Homework\ 1/scientificFloating/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/bitnguyen/Desktop/UCDavis/Spring 2020/ECS 50/Homework/Homework 1/scientificFloating/scientificFloating.cpp">
+			<Option target="scientificFloating"/>
+		</Unit>
+		<Unit filename="/Users/bitnguyen/Desktop/UCDavis/Spring 2020/ECS 50/Homework/Homework 1/scientificFloating/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

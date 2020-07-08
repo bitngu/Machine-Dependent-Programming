@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bitnguyen/Desktop/UCDavis/Spring 2020/ECS 50/Homework/Homework 4/test/main.cpp
+iostream
+-
+

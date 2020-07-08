@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bitnguyen/Desktop/UCDavis/Spring 2020/ECS 50/Homework/Homework 3/combs/combs.h
+
+/Users/bitnguyen/Desktop/UCDavis/Spring 2020/ECS 50/Homework/Homework 3/combs/main.c
+stdio.h
+-
+stdlib.h
+-
+combs.h
+/Users/bitnguyen/Desktop/UCDavis/Spring 2020/ECS 50/Homework/Homework 3/combs/combs.h
+

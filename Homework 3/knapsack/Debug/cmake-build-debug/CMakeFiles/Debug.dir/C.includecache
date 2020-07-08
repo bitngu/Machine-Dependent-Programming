@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bitnguyen/Desktop/UCDavis/Spring 2020/ECS 50/Homework/Homework 3/Knapsack/Debug/knapsack.c
+
+/Users/bitnguyen/Desktop/UCDavis/Spring 2020/ECS 50/Homework/Homework 3/Knapsack/Debug/main.c
+stdio.h
+-
+stdlib.h
+-
+

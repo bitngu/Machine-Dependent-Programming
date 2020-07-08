@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bitnguyen/Desktop/UCDavis/Spring 2020/ECS 50/Homework/Homework 4/MyFloat.cpp
+MyFloat.h
+/Users/bitnguyen/Desktop/UCDavis/Spring 2020/ECS 50/Homework/Homework 4/MyFloat.h
+
+/Users/bitnguyen/Desktop/UCDavis/Spring 2020/ECS 50/Homework/Homework 4/MyFloat.h
+iostream
+-
+
+/Users/bitnguyen/Desktop/UCDavis/Spring 2020/ECS 50/Homework/Homework 4/main.cpp
+cstdlib
+-
+iostream
+-
+MyFloat.h
+/Users/bitnguyen/Desktop/UCDavis/Spring 2020/ECS 50/Homework/Homework 4/MyFloat.h
+
